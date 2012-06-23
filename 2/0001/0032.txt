@@ -1,26 +1,26 @@
-設定を　変える
-話の速さ
-戦闘アニメ
-試合のルール
-サウンド
-文字モード
-無線
-ＩＲの　レポート
-決定
-やめる
-遅い
-普通
-速い
-みる
-みない
-いれかえ
-かちぬき
-ステレオ
-モノラル
+Einstellungen aendern
+Textgeschwindigkeit
+Kampfanimation
+Kampfstil
+Sound
+Sprache
+Wi-Fi
+IR-Sicherung
+Bestaetigen
+Abbrechen
+Langsam
+Normal
+Schnell
+An
+Aus
+Tausch
+Folge
+Stereo
+Mono
 ひらがな
 漢字
-オン
-オフ
+An
+Aus
 書く
 書かない
 メッセージの　表示速度を\xfffe３種類から　選べます
@@ -32,6 +32,6 @@
 Ｃ－ＧＥＡＲの　赤外線通信　前に\xfffeレポートを　書くかどうか　選べます
 べつの　レポートが　書かれているので\xfffe変更できません\xf000븁\x0000
 選んだ　設定に　変更しますか？
-はい
-いいえ
+Ja
+Nein
 ダミーメッセージ
